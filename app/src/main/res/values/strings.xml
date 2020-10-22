@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="Formulario_de_contacto">Formulario de contacto</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="Descripcion_del_contacto">Descripción del contacto</string>
+    <string name="titulo2">Mis Datos</string>
+</resources>
